@@ -1,7 +1,7 @@
-### EPFRUDNSunFlaresProject
+## EPF RUDN Risk Map Project
 Prevention of sun ultraviolets: risk map
 
-FINAL VERSION:
+### FINAL VERSION:
 
 • GIS Programming project to find vulnerable areas in the world in the case of sun flares.  
 
@@ -17,7 +17,7 @@ FINAL VERSION:
 
 • Instructor : Naci Dilekli, RUDN Professor, https://github.com/ndilekli/
 
-DATA ARE FROM:
+### DATA ARE FROM:
 
 • See data in Folder « data »
 
